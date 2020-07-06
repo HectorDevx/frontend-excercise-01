@@ -1,0 +1,76 @@
+/* -----------------------------------------Variables */
+:root {
+  --red: #eb1a4a;
+  --white: #ffffff;
+  --light-gray: #dcdcdc;
+  --gray: #66656b;
+  --black: #0d0d0d;
+
+  --primary-font: "Lato", sans-serif;
+  --secondary-font: "Crimson Text", serif;
+  --normal: 400;
+  --bold: 700;
+  --ultra: 900;
+
+  --nano: 8px;
+  --mini: 16px;
+  --small: 24px;
+  --medium: 34px;
+  --large: 44px;
+  --extra-large: 65px;
+}
+
+/* -----------------------------------------Colors */
+.color-gray {
+  color: var(--gray);
+}
+
+.color-red {
+  color: var(--red);
+}
+
+/* -----------------------------------------Tipography */
+
+h2 {
+  font-family: var(--primary-font);
+  font-size: var(--medium);
+  font-weight: var(--ultra);
+  margin: -16px;
+}
+
+h3 {
+  font-family: var(--primary-font);
+  font-size: var(--medium);
+  font-weight: var(--normal);
+  margin: var(--nano);
+}
+
+/* -----------------------------------------Boxes */
+main {
+  background: linear-gradient(180deg, var(--white), var(--light-gray));
+  max-width: 100%;
+  padding: calc(var(--mini) * 2) calc(var(--mini) * 4);
+}
+
+.info-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  padding: var(--large) 0;
+}
+
+.info-item-two {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding: var(--medium);
+  padding-right: calc(var(--extra-large) * 3);
+}
+
+.info-item-three {
+  width: 33%;
+  padding: var(--medium);
+  padding-right: calc(var(--extra-large) * 2);
+}

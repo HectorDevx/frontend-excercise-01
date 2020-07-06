@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  float: right;
+}
+
+.menu {
+  text-align: end;
+  padding: var(--space);
+}
+
+.menu li {
+  display: inline;
+  margin: var(--small);
+  font-family: var(--primary-font);
+  font-size: var(--mini);
+  font-weight: var(--ultra);
+}
