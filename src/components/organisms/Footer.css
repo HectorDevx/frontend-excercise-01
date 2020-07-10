@@ -6,3 +6,7 @@
   max-width: 100%;
   padding: var(--medium);
 }
+
+.footer span {
+  font-weight: bold;
+}

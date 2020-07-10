@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Tweets from "./organisms/Tweets";
 import Feedback from "./organisms/Feedback";
-import Social from "./organisms/Social";
+import { SocialList } from "./organisms/Social";
 
 import "./App.css";
 
@@ -11,7 +11,7 @@ class ThreeColumns extends Component {
       <div className="info-container">
         <Tweets />
         <Feedback />
-        <Social />
+        <SocialList />
       </div>
     );
   }

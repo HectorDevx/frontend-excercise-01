@@ -1,14 +1,16 @@
 .btn {
   align-self: flex-end;
-  padding: var(--nano);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: var(--nano) var(--small);
   background: linear-gradient(180deg, var(--white), var(--light-gray));
   border: none;
   border-radius: var(--nano);
   box-shadow: 0px 2px 4px var(--gray);
 }
 
-.btn span,
-img {
+.btn span {
   display: inline;
   font-family: var(--primary-font);
   font-weight: var(--ultra);

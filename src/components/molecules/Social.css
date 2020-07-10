@@ -1,0 +1,17 @@
+.social-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.social-list h5 {
+  font-size: var(--mini);
+  color: var(--red);
+}
+
+.social-list img {
+  width: 40px;
+  height: 40px;
+  margin-right: var(--nano);
+}

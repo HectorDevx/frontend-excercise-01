@@ -7,12 +7,18 @@ import "../App.css";
 class Feedback extends Component {
   render() {
     return (
-      <div className="info-item-three">
+      <section className="info-item-three">
         <Titles first="feedback" second="de clientes" />
-        <Texts />
+        <Texts
+          title="Sra. Lorem Ipsum"
+          text="Lorem ipsum dolor sit amet, muy buen trabajo!!"
+        />
         <hr />
-        <Texts />
-      </div>
+        <Texts
+          title="Sra. Lorem Ipsum"
+          text="Lorem ipsum dolor sit amet, el mejor diseñador web del mundo!!"
+        />
+      </section>
     );
   }
 }

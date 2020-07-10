@@ -4,8 +4,10 @@ class Texts extends Component {
   render() {
     return (
       <div>
-        <h6>Algo</h6>
-        <p>Algo más</p>
+        <p>
+          <strong>{this.props.title}</strong>
+        </p>
+        <p>{this.props.text}</p>
       </div>
     );
   }

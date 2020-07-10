@@ -1,0 +1,11 @@
+.hero {
+  width: 50%;
+}
+
+.hero__container {
+  text-align: center;
+}
+
+.hero__container img {
+  margin-bottom: -24px;
+}

@@ -5,9 +5,9 @@ import "../molecules/Menu.css";
 class Header extends Component {
   render() {
     return (
-      <div className="header">
+      <header className="header">
         <Menu />
-      </div>
+      </header>
     );
   }
 }

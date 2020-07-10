@@ -7,12 +7,18 @@ import "../App.css";
 class Tweets extends Component {
   render() {
     return (
-      <div className="info-item-three">
+      <section className="info-item-three">
         <Titles first="últimos" second="tweets" />
-        <Texts />
+        <Texts
+          title="5:13 PM Sep 7 desde TweetDeck"
+          text="RT 1stwebdesigner: Mira mi último diseño http://bit.ly/asdfg"
+        />
         <hr />
-        <Texts />
-      </div>
+        <Texts
+          title="5:13 PM Sep 7 desde TweetDeck"
+          text="RT 1stwebdesigner: Mira mi último diseño http://bit.ly/asdfg"
+        />
+      </section>
     );
   }
 }

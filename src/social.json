@@ -1,0 +1,24 @@
+{
+  "social": [
+    {
+      "id": "1",
+      "url": "www.facebook.com/lorem",
+      "icon": "https://image.flaticon.com/icons/svg/1384/1384053.svg"
+    },
+    {
+      "id": "2",
+      "url": "www.digg.com/user/lorem",
+      "icon": "https://image.flaticon.com/icons/svg/124/124031.svg"
+    },
+    {
+      "id": "3",
+      "url": "www.flickr.com/photos/lorem",
+      "icon": "https://image.flaticon.com/icons/svg/733/733550.svg"
+    },
+    {
+      "id": "4",
+      "url": "www.twitter.com/lorem",
+      "icon": "https://image.flaticon.com/icons/svg/124/124021.svg"
+    }
+  ]
+}
