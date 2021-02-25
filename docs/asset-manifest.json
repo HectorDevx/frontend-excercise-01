@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/frontend-excercise-01/static/css/main.4b79c73a.chunk.css",
+    "main.js": "/frontend-excercise-01/static/js/main.cd5db208.chunk.js",
+    "main.js.map": "/frontend-excercise-01/static/js/main.cd5db208.chunk.js.map",
+    "runtime-main.js": "/frontend-excercise-01/static/js/runtime-main.c6dca1fc.js",
+    "runtime-main.js.map": "/frontend-excercise-01/static/js/runtime-main.c6dca1fc.js.map",
+    "static/js/2.05c83776.chunk.js": "/frontend-excercise-01/static/js/2.05c83776.chunk.js",
+    "static/js/2.05c83776.chunk.js.map": "/frontend-excercise-01/static/js/2.05c83776.chunk.js.map",
+    "index.html": "/frontend-excercise-01/index.html",
+    "precache-manifest.bbd52d60c034a96bca33ba473d17cab5.js": "/frontend-excercise-01/precache-manifest.bbd52d60c034a96bca33ba473d17cab5.js",
+    "service-worker.js": "/frontend-excercise-01/service-worker.js",
+    "static/css/main.4b79c73a.chunk.css.map": "/frontend-excercise-01/static/css/main.4b79c73a.chunk.css.map",
+    "static/js/2.05c83776.chunk.js.LICENSE.txt": "/frontend-excercise-01/static/js/2.05c83776.chunk.js.LICENSE.txt",
+    "static/media/img01.png": "/frontend-excercise-01/static/media/img01.c97e42dd.png",
+    "static/media/img02.png": "/frontend-excercise-01/static/media/img02.b88d848c.png",
+    "static/media/img03.png": "/frontend-excercise-01/static/media/img03.42270bab.png",
+    "static/media/logo.png": "/frontend-excercise-01/static/media/logo.9d516ae5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6dca1fc.js",
+    "static/js/2.05c83776.chunk.js",
+    "static/css/main.4b79c73a.chunk.css",
+    "static/js/main.cd5db208.chunk.js"
+  ]
+}
